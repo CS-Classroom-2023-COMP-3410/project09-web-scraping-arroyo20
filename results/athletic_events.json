@@ -1,0 +1,54 @@
+{
+    "events": [
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "FloSports",
+            "date": "3/6/2026"
+        },
+        {
+            "duTeam": "Women's Basketball",
+            "opponent": "Summit League Network",
+            "date": "3/6/2026"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCHC.tv",
+            "date": "3/6/2026"
+        },
+        {
+            "duTeam": "Men's Basketball",
+            "opponent": "Summit League Network",
+            "date": "3/6/2026"
+        },
+        {
+            "duTeam": "Women's Basketball",
+            "opponent": "Summit League Network",
+            "date": "3/7/2026"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCHC.tv",
+            "date": "3/7/2026"
+        },
+        {
+            "duTeam": "Men's Basketball",
+            "opponent": "CBS Sports Network",
+            "date": "3/7/2026"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "ESPN+",
+            "date": "3/8/2026"
+        },
+        {
+            "duTeam": "Women's Basketball",
+            "opponent": "CBS Sports Network",
+            "date": "3/8/2026"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCHC.tv",
+            "date": "3/8/2026"
+        }
+    ]
+}
